@@ -1,0 +1,74 @@
+#xx {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: #8000ff;
+}
+
+#fi {
+    border-radius: 10px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#btn1 {
+    background-color: #8000ff;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+#btn2 {
+    background-color: #8000ff;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+#btn3 {
+    background-color: #8000ff;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+#f1 {
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#f2 {
+    font-family: sans-serif;
+    font-size: large;
+}
+
+#customers {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td,
+#customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+    border-color: #f2f2f2;
+}
+
+#customers tr:hover {
+    background-color: #ddd;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: aquamarine;
+    color: white;
+}
